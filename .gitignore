@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Файлы данных (если хочешь исключить сохранённые записи)
+training_data.json
+
+# IDE
+.vscode/
+.idea/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
